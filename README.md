@@ -19,5 +19,5 @@ A practical Streamlit app to check whether a user is overburdened with EMIs.
 
 ```powershell
 .\Scripts\pip.exe install -r requirements.txt
-.\Scripts\streamlit.exe run app.py
+.\Scripts\streamlit.exe run code/app.py
 ```

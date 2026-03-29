@@ -24,7 +24,7 @@ def get_stress_band(emi_ratio: float) -> tuple[str, str, str]:
     if emi_ratio < 50:
         return (
             "Stretched",
-            "A large share of income is already committed to EMIs.",
+            "A large share of income is already committed to existing debt.",
             "#f57c00",
         )
     return (
