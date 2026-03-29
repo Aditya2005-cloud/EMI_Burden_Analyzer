@@ -32,14 +32,6 @@ Project code:
 
 ## Run App
 
-From project folder:
-
 ```powershell
-.\Scripts\python.exe -m streamlit run code/app.py
-```
-
-If you are inside `code` folder:
-
-```powershell
-..\Scripts\python.exe -m streamlit run .\app.py
+streamlit run .\app.py
 ```
